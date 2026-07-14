@@ -1,40 +1,28 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=hey%2C%20i'm%20oshal&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=designer%20%C2%B7%20maker%20%C2%B7%20hustler&descFontColor=b0b0cc&descSize=20&descAlignY=60" width="100%" />
-</div>
+# hey, i'm oshal
 
-<br/>
+### designer · maker · hustler
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oshal7&style=flat-square&color=6e40c9&label=profile+views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=oshal7&style=flat-square&color=6e40c9&label=profile+views" />
 
-<br/>
+---
 
 By day, I'm at **[Cohesity](https://cohesity.com)** — solving hard infrastructure problems to protect the world's data at scale.  
 Outside of that, I'm in constant maker mode: designing things people actually want to use,  
 building fast enough to keep up with the ideas, and staying curious about what's next.
 
-<br/>
-
 ---
 
 ### 🚧 currently building
 
-<br/>
-
 | Project | What it is |
 |---|---|
-| **[Personal-AI](https://github.com/oshal7/Personal-AI)** | Offline AI assistant on Android — local LLMs via Ollama, no cloud, full privacy |
-| **[accessibility-simulator](https://github.com/oshal7/accessibility-simulator)** | Experience the web the way others do — a simulator for visual accessibility conditions |
-| **[pixel-timer](https://github.com/oshal7/pixel-timer)** | A pixel-art inspired focus timer for deep work sessions |
-
-<br/>
+| **[Orbit Tracker](https://github.com/oshal7/orbit-tracker-web)** | Real-time satellite and orbit tracking on the web |
+| **[Pixel Timer](https://github.com/oshal7/pixel-timer)** | A pixel-art inspired focus timer for deep work sessions |
+| **[Bookmark of the Day](https://github.com/oshal7/bookmark-of-the-day)** | A daily discovery tool that resurfaces your saved links when they matter most |
 
 ---
 
 ### 🛠 tools i reach for
-
-<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -43,13 +31,9 @@ building fast enough to keep up with the ideas, and staying curious about what's
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </div>
 
-<br/>
-
 ---
 
 ### 🔗 find me
-
-<br/>
 
 <div align="center">
   <a href="https://x.com/Oshalurade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -63,12 +47,4 @@ building fast enough to keep up with the ideas, and staying curious about what's
 
 <br/>
 
-<div align="center">
-  <i>no depth, no fun.</i>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
-</div>
+<div align="center"><i>no depth, no fun.</i></div>
