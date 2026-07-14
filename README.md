@@ -26,4 +26,6 @@ building fast enough to keep up with the ideas, and staying curious about what's
 
 <br/>
 
-<div align="center"><i>no depth, no fun.</i></div>
+<div align="center">🔴 🟡 🔵 ⚪ ⚫ 🩵 🩶 🟣 🟢 🩷</div>
+
+<div align="center"><i>gotta build 'em all.</i></div>
