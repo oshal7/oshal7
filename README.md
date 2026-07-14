@@ -1,28 +1,3 @@
-<div align="center">
-
-```
-      /\      /\              .--------.         /\    /\ MM             .--------.
-  \  /  \    /  \  /        | D`    `D |       / D`**`D  \/\           | D`    `D |
-   \/ .        . \/         |  ------  |      |   *.*    /  \          |   \v/    |
-   |(O)        (O)|          ----------       |  L___/  /    |         |___|_|____|
-   |   \      /  |        --|   |_T_|  |--   |  |---| * /---|              /   \
-   |    \____/   |        |>-+--/   \--+-<|  \*| |/* / \--/ |           / /|\ \
-   |_____|_______|        |_/ \_____/ \_|      \_________/              /_/ | \_\
-      /       \              /\     /\                                  /\  |   /\
-   L=/         \=J          /  \   /  \                               /  \ |  /  \
-        VV                 |    \_/    |                              /    \|_/    \
-         V                 |___________|                             /           🔥
-                                ||
-```
-
-</div>
-
-<div align="center">
-  <i>gotta build 'em all.</i>
-</div>
-
----
-
 # hey, i'm oshal
 
 ### designer · maker · hustler
@@ -47,28 +22,7 @@ building fast enough to keep up with the ideas, and staying curious about what's
 
 ---
 
-### 🛠 tools i reach for
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-</div>
-
----
-
-### 🔗 find me
-
-<div align="center">
-  <a href="https://x.com/Oshalurade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/oshal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://oshal.webflow.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:oshalurade@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+[Twitter](https://x.com/Oshalurade) · [LinkedIn](https://linkedin.com/in/oshal/) · [Portfolio](https://oshal.webflow.io) · [Email](mailto:oshalurade@gmail.com)
 
 <br/>
 
