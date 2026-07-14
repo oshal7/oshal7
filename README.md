@@ -1,3 +1,20 @@
+<div align="center">
+
+```
+  (\__/)   (\__/)   (\__/)
+  (⚡ᴗ⚡)  (˶ᵔ ᵕ ᵔ˶)  ( •̀ ω •́ )
+  />  🔨   />  🌿    />  🔥
+ pikachu  bulbasaur  charmander
+```
+
+</div>
+
+<div align="center">
+  <i>gotta build 'em all.</i>
+</div>
+
+---
+
 # hey, i'm oshal
 
 ### designer · maker · hustler
