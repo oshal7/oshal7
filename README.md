@@ -2,7 +2,6 @@
 
 ### designer · maker · hustler
 
-<img src="https://komarev.com/ghpvc/?username=oshal7&style=flat-square&color=6e40c9&label=profile+views" />
 
 ---
 
@@ -34,6 +33,8 @@ building fast enough to keep up with the ideas, and staying curious about what's
 ---
 
 [Twitter](https://x.com/Oshalurade) · [LinkedIn](https://linkedin.com/in/oshal/) · [Email](mailto:oshalurade@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=oshal7&style=flat-square&color=6e40c9&label=profile+views" />
 
 <br/>
 
