@@ -26,6 +26,17 @@ building fast enough to keep up with the ideas, and staying curious about what's
 
 <br/>
 
-<div align="center">🔴 🟡 🔵 ⚪ ⚫ 🩵 🩶 🟣 🟢 🩷</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" height="60" title="Bulbasaur" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" height="60" title="Charmander" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" height="60" title="Squirtle" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" height="60" title="Pikachu" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" height="60" title="Jigglypuff" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" height="60" title="Gengar" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" height="60" title="Eevee" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png" height="60" title="Snorlax" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" height="60" title="Mewtwo" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png" height="60" title="Mew" />
+</div>
 
 <div align="center"><i>gotta build 'em all.</i></div>
