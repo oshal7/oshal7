@@ -7,6 +7,7 @@ By day, I'm at **[Cohesity](https://cohesity.com)** — solving hard infrastruct
 Outside of that, I'm in constant maker mode: designing things people actually want to use,  
 building fast enough to keep up with the ideas, and staying curious about what's next.
 
+--
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" height="60" title="Bulbasaur" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="60" title="Charmander" />
