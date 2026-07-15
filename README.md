@@ -3,8 +3,6 @@
 ### designer · maker · hustler
 
 
----
-
 By day, I'm at **[Cohesity](https://cohesity.com)** — solving hard infrastructure problems to protect the world's data at scale.  
 Outside of that, I'm in constant maker mode: designing things people actually want to use,  
 building fast enough to keep up with the ideas, and staying curious about what's next.
